@@ -1,9 +1,9 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios-new.png" />
 
 <h3 align="center">
-  Desafio 06: Banco de dados e upload de arquivos no Node.js
+ Desafio 07: GoFinances Web
 </h3>
-### Funcionalidades da aplicação
+## Funcionalidades da aplicação
 
 Agora que você já está com o template clonado e pronto para continuar, você deve verificar os arquivos da pasta `src` e completar onde não possui código, com o código para atingir os objetivos de cada rota.
 
